@@ -1,0 +1,2 @@
+All:
+	g++ -o stat -Wall -w -s statParticles.cc

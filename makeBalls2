@@ -1,0 +1,2 @@
+All:
+	g++ -o balls2 -Wall -w -s dynParticles2.cc
